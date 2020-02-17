@@ -2,13 +2,13 @@
 ___
 ## The Acid Test for non technical users. 
 
-This repo was set up by netlify after browsing some static site generators from [StatiGen](https://www.staticgen.com/). many Thanks
+This repo was set up by netlify after browsing some static site generators from [StaticGen](https://www.staticgen.com/). many Thanks
 
 If you would like to try working locally please follow the instructions below. 
 
 ___
 
-Assumptions: You have been through the github introduction here[]
+Assumptions: You have a github account and know the [basics](https://help.github.com/en/github/getting-started-with-github)
 
 Quick start
 ___
